@@ -1,0 +1,6 @@
+{
+  "name": "Chuyển Văn Bản Giọng Nữ Quảng Bình",
+  "description": "Ứng dụng chuyển đổi văn bản thành giọng đọc Nữ Quảng Bình (Bắc Trung Bộ), phân biệt rõ với giọng Huế, tùy chỉnh sắc thái, giọng điệu và tải file âm thanh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
